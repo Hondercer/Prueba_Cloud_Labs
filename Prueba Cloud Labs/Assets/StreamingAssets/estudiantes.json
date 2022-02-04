@@ -1,0 +1,84 @@
+﻿{
+	"Estudiantes":[
+	  {
+	  "nombre":"Mateo",
+	  "apellido":"Garzon",
+	  "codigo":"0001",
+	  "correo":"estudiante1@gmail.com",
+	  "notaFinal": 3.1
+	  },
+
+	  {
+	  "nombre":"Jose",
+	  "apellido":"Lopez",
+	  "codigo":"0002",
+	  "correo":"estudiante2@gmail.com",
+	  "notaFinal":2.8
+	  },
+
+	  {
+	  "nombre":"Ana",
+  	  "apellido":"Rojas",
+	  "codigo":"0003",
+	  "correo":"estudiante3@gmail.com",
+	  "notaFinal":4.2
+	  },
+
+	  {
+	  "nombre":"Jhon",
+	  "apellido":"Acevedo",
+	  "codigo":"0004",
+	  "correo":"estudiante4@gmail.com",
+	  "notaFinal":5
+	  },
+
+	  {
+	  "nombre":"Anderson",
+	  "apellido":"Serna",
+	  "codigo":"0005",
+	  "correo":"estudiante5@gmail.com",
+	  "notaFinal":3.2
+	  },
+
+	  {
+	  "nombre":"Angel",
+  	  "apellido":"Perez",
+	  "codigo":"0006",
+	  "correo":"estudiante6@gmail.com",
+	  "notaFinal":4.1
+	  },
+
+	  {
+	  "nombre":"Daniela",
+	  "apellido":"Garzon",
+	  "codigo":"0007",
+	  "correo":"estudiante7@gmail.com",
+	  "notaFinal": 2.2
+	  },
+
+	  {
+	  "nombre":"Angie",
+	  "apellido":"Lopoez",
+	  "codigo":"0008",
+	  "correo":"estudiante8@gmail.com",
+	  "notaFinal":1.4
+	  },
+
+	  {
+	  "nombre":"Daniel",
+	  "apellido":"Garzon",
+	  "codigo":"0009",
+	  "correo":"estudiante9@gmail.com",
+	  "notaFinal": 4.7
+	  },
+
+	  {
+	  "nombre":"Juan",
+	  "apellido":"Lopez",
+	  "codigo":"0010",
+	  "correo":"estudiante10@gmail.com",
+	  "notaFinal":3.8
+	  }
+
+	 ]
+}
