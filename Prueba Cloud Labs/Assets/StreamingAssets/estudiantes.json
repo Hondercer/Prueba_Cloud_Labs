@@ -1,11 +1,11 @@
 ﻿{
-	"Estudiantes":[
+	"estudiantes":[
 	  {
-	  "nombre":"Mateo",
+	  "nombre":"Mateoro",
 	  "apellido":"Garzon",
 	  "codigo":"0001",
 	  "correo":"estudiante1@gmail.com",
-	  "notaFinal": 3.1
+	  "notaFinal": 3.2
 	  },
 
 	  {
