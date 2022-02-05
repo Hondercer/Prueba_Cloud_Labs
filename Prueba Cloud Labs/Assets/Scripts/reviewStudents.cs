@@ -7,6 +7,7 @@ using UnityEngine.SceneManagement;
 public class reviewStudents : MonoBehaviour
 {
     public GameObject notification;
+    public GameObject notification2;
     public Text notificationText;
     public Button aceptar;
     // Start is called before the first frame update
@@ -92,6 +93,10 @@ public class reviewStudents : MonoBehaviour
     public void exit(){
         notification.SetActive(false);
     }
+
+    public void exit2(){
+        notification2.SetActive(false);
+    }    
 
     public void acept(){
         SceneManager.LoadScene(1);

@@ -37,9 +37,9 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\ReadJSON.cs" />
-     <Compile Include="Assets\Scripts\reviewStudents.cs" />
      <Compile Include="Assets\Scripts\DragStudent.cs" />
      <Compile Include="Assets\Scripts\DropSpace.cs" />
+     <Compile Include="Assets\Scripts\reviewStudents.cs" />
     <Reference Include="UnityEngine">
         <HintPath>E:/Archivos de programa/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
